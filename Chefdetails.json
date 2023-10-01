@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "chef_picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=900&t=st=1695345087~exp=1695345687~hmac=834aedfc8e6e599c849526b0de3c7dcbf9681b076aac49b9c617804924916e3d",
+      "chef_name": "Chef John",
+      "chef_bio": "Chef Alice Smith is a passionate culinary expert known for her creative fusion of international flavors. With a background in French and Asian cuisine, she has delighted diners around the world with her innovative dishes.",
+      "likes": ["Exploring new ingredients", "Creating unique flavor combinations", "Teaching cooking classes"],
+      "number_of_recipes": 150,
+      "years_of_experience": 12
+    },
+    {
+      "id": 2,
+      "chef_picture": "https://img.freepik.com/free-vector/detailed-chef-logo-template_23-2148987940.jpg?w=740&t=st=1695345073~exp=1695345673~hmac=3332918e6a13df5247ba7bc0db810ec5bb3fa6dfe6eb9631aaef9144df0ea88e",
+      "chef_name": "Chef Sarah",
+      "chef_bio": "Chef Michael Johnson is a seasoned chef with a love for farm-to-table cooking. His dedication to using locally sourced, organic ingredients has earned him a reputation for exquisite dishes that celebrate the seasons.",
+      "likes": ["Farmers' market shopping", "Crafting seasonal menus", "Food sustainability"],
+      "number_of_recipes": 200,
+      "years_of_experience": 15
+    },
+    {
+      "id": 3,
+      "chef_picture": "https://img.freepik.com/free-photo/mid-shot-chef-holding-plate-with-pasta-making-ok-sign_23-2148794087.jpg?w=900&t=st=1695345144~exp=1695345744~hmac=9e3204e2a0a94ffc7cf39d3e4c40f756aeb0600f368809a9d5f3d3b247ced9e5",
+      "chef_name": "Chef Michael",
+      "chef_bio": "Sophia Rodriguez is a rising star in the culinary world, known for her modern take on traditional Latin American cuisine. Her vibrant dishes reflect her heritage and innovative spirit.",
+      "likes": ["Fusing Latin flavors with global influences", "Experimenting with spice profiles", "Food photography"],
+      "number_of_recipes": 120,
+      "years_of_experience": 8
+    },
+    {
+      "id": 4,
+      "chef_picture": "https://img.freepik.com/free-vector/realistic-cook-illustration_23-2149654406.jpg?w=900&t=st=1695345173~exp=1695345773~hmac=9464ed2bdd2f557d1b29b0734df40bdb460209fd09b7305514528658a5f89703",
+      "chef_name": "Chef Emily",
+      "chef_bio": "David Chen is a master of Asian cuisine, specializing in Chinese and Japanese dishes. With a strong emphasis on technique and precision, he creates dishes that are as beautiful as they are delicious.",
+      "likes": ["Perfecting knife skills", "Creating intricate sushi rolls", "Teaching traditional cooking methods"],
+      "number_of_recipes": 180,
+      "years_of_experience": 14
+    },
+    {
+      "id": 5,
+      "chef_picture": "https://img.freepik.com/free-vector/chef-process-preparing-restaurant-menu_81522-1058.jpg?w=740&t=st=1695345318~exp=1695345918~hmac=8f88ec3a5773568915e906da16f7bd02513687e5890000d3c13eaf625950265f",
+      "chef_name": "Chef David",
+      "chef_bio": "Elena Martinez is a pastry chef extraordinaire, renowned for her delectable desserts and pastries. Her sweet creations have a magical touch that transports diners to a world of indulgence.",
+      "likes": ["Baking intricate pastries", "Incorporating seasonal fruits", "Creating stunning dessert presentations"],
+      "number_of_recipes": 100,
+      "years_of_experience": 10
+    },
+    {
+      "id": 6,
+      "chef_picture": "https://img.freepik.com/premium-photo/professional-chef-workplace-cuisine-restaurant-close-up-view-man-hand-stirring-soup_763111-7113.jpg?w=740",
+      "chef_name": "Chef Olivia",
+      "chef_bio": "Chef William Davis is a grill master known for his expertise in barbecue and smoked meats. His love for the open flame and slow-cooked goodness has won him accolades and a devoted following.",
+      "likes": ["Low and slow barbecue", "Crafting homemade sauces", "Competing in barbecue championships"],
+      "number_of_recipes": 80,
+      "years_of_experience": 9
+    }
+  ]
+  
